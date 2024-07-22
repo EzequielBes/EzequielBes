@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Ola👋🏻,+MEU+NOME+É+Ezequiel+Beserra;Tenho+20+anos+e+curso+Ciências+da+Computação;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi👋🏻,+MY+NAME+IS+Ezequiel+Beserra;I+HAVE+TWENTY+YEARS+AND+Is+AM+A+FULL+STACK+DEVELOPER;)](https://git.io/typing-svg)
 
 <h2 align="left">Hi 👋! My name is Ezequiel and I'm a full stack developer</h2>
 
