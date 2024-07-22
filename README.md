@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi👋🏻,+MY+NAME+IS+Ezequiel+Beserra;I+HAVE+TWENTY+YEARS+AND+I+AM+A+FULL+STACK+DEVELOPER;)](https://git.io/typing-svg)
 
-
 ###
 
 <div align="center">
@@ -80,14 +79,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://profile-counter.glitch.me/EzequielBes/count.svg?"  />
 </div>
 
 ###
-
