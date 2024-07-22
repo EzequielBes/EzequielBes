@@ -2,13 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EzequielBes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EzequielBes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <img align="right" height="130" src="https://i.pinimg.com/originals/b9/76/3d/b9763d398d581a8a2916ea94682c8c4c.gif"  />
 
 ###
@@ -74,7 +67,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/EzequielBes/EzequielBes/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/EzequielBes/output/snake.svg" alt="Snake animation" />
 
 ###
 
